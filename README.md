@@ -1,2 +1,3 @@
 # olpmonitor
 OLP Monitor
+OLP Monitor is a massive-scale, multi-tenant React (MUI)/Node.js/Express.js/MongoDB system for managing Kenyan basic education (PP1-Grade9), targeting 10M+ users across 20K+ schools. It features distinct, role-based dashboards (Student, Teacher, Parent, Headteacher, Admins, Officials) accessed via client-side routing. Core functionalities include formative assessment recording with detailed rubrics, a central messaging system (real-time stubbed), student performance tracking, AI career guidance, streamlined administration, and subscription management based on student count. Architectural decisions prioritize scalability, performance, and security (JWT/RBAC), using a monorepo structure with strict TypeScript.
